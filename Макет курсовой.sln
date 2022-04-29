@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Макет курсовой", "Макет курсовой\Макет курсовой.csproj", "{71FCA29A-9BBE-4838-B150-E3809DB9A8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FCA29A-9BBE-4838-B150-E3809DB9A8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FCA29A-9BBE-4838-B150-E3809DB9A8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FCA29A-9BBE-4838-B150-E3809DB9A8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FCA29A-9BBE-4838-B150-E3809DB9A8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4B2B4E-2694-4EFA-844F-329D07C510CC}
+	EndGlobalSection
+EndGlobal
